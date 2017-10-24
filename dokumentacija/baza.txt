@@ -1,0 +1,3 @@
+cd c:\xampp\mysql\bin
+mysql -ukorisnik -pp --default_character_set=utf8 < "C:\xampp\htdocs\LjetniRad\skladiste.sql"
+
